@@ -55,5 +55,5 @@ $ pip3 install -r requirements.txt
 
 
 ## LINKS
-[Gento Checker Account](https://gento.live/page/auth/register)
+[Gento Checker Account](https://gento.live/page/auth/register) <br>
 [Make your own CLI here](https://gento.systems/documentation)
