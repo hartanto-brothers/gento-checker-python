@@ -21,7 +21,10 @@ if you don't have gento checker account you can register on this [LINK](https://
 $ git clone https://github.com/hartanto-brothers/gento-checker-python
 ```
 4. After cloning repositories, you can switch your terminal to gento-checker-python folder
-5. Install python module by running this command
+```bash
+$ cd gento-checker-python
+```
+6. Install python module by running this command
 ```bash
 $ pip3 install -r requirements.txt
 ```
